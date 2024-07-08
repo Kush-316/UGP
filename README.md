@@ -23,11 +23,11 @@ We chose Assam as our region of study as it had the highest occurence of flood a
 
 <img width="613" alt="Screenshot 2024-07-08 at 1 04 35 PM" src="https://github.com/aryanparihar2910/UGP/assets/116455750/59bf098b-42ef-4d08-8eeb-0c43caea338f">
 
-This was the heat map of flood occurences in the Assam and its nearby region of India.
+This was the heat map of flood occurences in the target block region which consisted of the state of Assam and its nearby region of India.
 
 # Correlating the Fields
 
-This was the correlation matrix plotted between all available columns of the dataset.
+This was the correlation matrix plotted between all available columns of the dataset, which was used for developing further formulations to determine resources quantities and location distribution algorithms.
 
 <img width="658" alt="Screenshot 2024-07-08 at 1 12 45 PM" src="https://github.com/aryanparihar2910/UGP/assets/116455750/32322996-2022-4b63-8452-84ba9f36a2e8">
 
